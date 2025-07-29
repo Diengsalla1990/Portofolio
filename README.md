@@ -13,7 +13,6 @@ Je M'appelle Ibra DIENG, Développeur Fullstack.
 
 Ce portfolio est une application web dynamique et responsive développée avec Angular, mettant en avant mes compétences et mes projets de développeur logiciel. La conception et le développement de ce portfolio visaient à offrir une expérience utilisateur fluide sur différents appareils, tout en mettant en valeur différents aspects de mon parcours professionnel.
 
-The potfolio has sections of home, about, education, portfolio projects and contact information. Key features are its dynamic content, the responsive design and modern aesthetics.
 
 ## Technologies Utilisée
 
